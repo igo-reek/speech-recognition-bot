@@ -1,2 +1,2 @@
 
-telegram speech recognition bot running on API Wit.ai
+telegram speech recognition bot running on API Wit.ai @Goshapigalitsynbot
